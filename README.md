@@ -1,4 +1,4 @@
-# WalletConnect App on Expo
+# WalletConnect Application with Expo
 
 This is a simple example how to get `WalletConnect` up and running with `Expo` for React Native.
 
